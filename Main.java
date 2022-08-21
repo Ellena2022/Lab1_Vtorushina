@@ -6,7 +6,7 @@ public class Main {
         c=20;
         int sum=a+b+c;
 
-        System.out.println("Сумма "+sum);
+        System.out.println("Сумма чисел "+sum);
     }
 
     }
